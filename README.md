@@ -1,3 +1,3 @@
 # ToDo-list-
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Prakashtiwari7415/ToDo-list-)
+click on this link to open
+https://luxury-starship-100ad9.netlify.app
